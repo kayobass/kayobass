@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/balah7/" target="_blank">
     <img alt="Icon LinkedIn (profile)" src="icons/social/linkedin.svg" width="50" height="50">
   </a>
-  <a href="https://www.instagram.com/kayaruj3/" target="_blank">
+  <a href="https://www.instagram.com/kayobasss/" target="_blank">
     <img alt="Icon Instagram (profile)" src="icons/social/instagram.svg" width="50" height="50">
   </a>
   <a href="https://www.youtube.com/channel/UC5EbVrq3WHkwRDUzbQaS5ig">
@@ -139,15 +139,15 @@
   <summary><b>⚡ Github Stats</b></summary>
   
   <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=kayaruj&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&title_color=c6a0f6&text_color=8aadf4&icon_color=f5a97f&include_all_commits=true&bg_color=24273a&border_color=8087a2&border_radius=15" alt="Github Stats"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayaruj&layout=donut-vertical&theme=dark&title_color=c6a0f6&text_color=8aadf4&icon_color=f5a97f&bg_color=24273a&border_color=24273a&border_radius=15" alt="Most used languages"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=kayobass&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&title_color=c6a0f6&text_color=8aadf4&icon_color=f5a97f&include_all_commits=true&bg_color=24273a&border_color=8087a2&border_radius=15" alt="Github Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayobass&layout=donut-vertical&theme=dark&title_color=c6a0f6&text_color=8aadf4&icon_color=f5a97f&bg_color=24273a&border_color=24273a&border_radius=15" alt="Most used languages"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
   <br/>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=kayaruj&theme=catppuccin-macchiato&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500" alt="Github Streaks" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=kayobass&theme=catppuccin-macchiato&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500" alt="Github Streaks" />
 </details>
 
 <details>	
@@ -170,11 +170,11 @@
   <br />
   <summary><b>⚙️ Hardware</b></summary>
   	<ul>
-  	  <li><b>OS:</b> Arch Linux (GNOME 47)</li>
+  	  <li><b>OS:</b> Ultramarine 41 (KDE 6)</li>
 	    <li><b>Laptop: </b> Lenovo IdeaPad 3i</li>
-  	  <li><b>Browser: </b> Firefox</li>
+  	  <li><b>Browser: </b> Opera</li>
       <li><b>Cpu:</b> AMD Ryzen™ 5 5500U with Radeon™ Graphics × 12</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Gnome Terminal)</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Konsole)</li>
 	</ul>	
 </details>
 
