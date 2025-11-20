@@ -8,8 +8,8 @@
     <li>💻 I want to be a <b>Software Engineer</b>;</li>
     <li>📍 I am from <b>Brazil 🇧🇷</b>;</li>
     <li>🏢 I am currently studying to get my <b>First Job</b>;</li>
-    <li>🌱 I'm currently learning <b>Android Development</b> with <b>Kotlin</b> and <b>English</b>;</li>
-    <li>💬 You can ask me about <b>Kotlin, Android, Mobile so on</b>;</li>
+    <li>🌱 I'm currently learning <b>React Native Development</b> with <b>TypeScript</b> and <b>English</b>;</li>
+    <li>💬 You can ask me about <b>React Native, TypeScript, Mobile and so on</b>;</li>
     <li>🩸 Living with <b>type 1 Diabetes</b>;</li>
     <li>☕ I do not like <b>Coffee</b>;</li>
     <li>🎛️ I'm unmatched when it comes to <b>Matuê</b>.</li>
@@ -19,8 +19,8 @@
 <hr>
 
 <p>
-  Hello! I’m Kayo Araujo, but you can also call me <em>Balah</em>. Born in 2008, and passionate about <b>Android development</b>.
-  I’m currently studying <b>Kotlin</b> to start exploring the Android world and create useful and practical apps for everyday life.
+  Hello! I’m Kayo Araujo, but you can also call me <em>Balah</em>. Born in 2008, and passionate about <b>mobile development</b>.
+  I’m currently studying <b>React Native</b> with <b>TypeScript</b> to start exploring the cross-platform mobile world and create useful and practical apps for everyday life.
   Although I have Type 1 diabetes, I lead a normal life with proper care.
   Alongside coding, I’m also diving into <b>English</b> studies, currently at a beginner level.
   My favorite programming language is <b>Crystal</b>, and I plan to specialize in backend development with it in the future.
@@ -28,6 +28,7 @@
   Additionally, I create content on <b>YouTube</b> to share experiences, stories, and some programming tips.
   Feel free to reach out to me through my social media. Cheers! 🚀 &lt;3
 </p>
+
 
 ---
 
@@ -57,10 +58,10 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <a href="https://kotlinlang.org/">
-        <img src="icons/languages/kotlin.svg" width="50" height="50" alt="Kotlin lang logo" />
+      <a href="https://www.typescriptlang.org">
+        <img src="icons/languages/typescript.svg" width="50" height="50" alt="Typescript lang logo" />
       </a>
-      <br>KOTLIN
+      <br>TYPESCRIPT
     </td>	
     <td align="center" width="110">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
@@ -83,23 +84,17 @@
 
 <table>
   <tr>
-    <td align="center" width="110">
-      <a href="https://developer.android.com/studio">
-        <img src="icons/ides/androidstudio.svg" width="50" height="50" alt="Android Studio logo" />
+	<td align="center" width="110">
+      <a href="https://code.visualstudio.com/">
+        <img src="icons/ides/vscode.svg" width="50" height="50" alt="VS Code logo" />
       </a>
-      <br>ANDROID STUDIO
-    </td>
+      <br>VS<br>CODE
+    </td>  
     <td align="center" width="110">
       <a href="https://www.jetbrains.com/pt-br/idea/">
         <img src="icons/ides/intellij-idea.svg" width="50" height="50" alt="IntelliJ IDEA logo" />
       </a>
       <br>INTELLIJ IDEA
-    </td>
-    <td align="center" width="110">
-      <a href="https://code.visualstudio.com/">
-        <img src="icons/ides/vscode.svg" width="50" height="50" alt="VS Code logo" />
-      </a>
-      <br>VS<br>CODE
     </td>
   </tr>
 </table>
@@ -121,6 +116,12 @@
         <img src="icons/tools/git.svg" width="50" height="50" alt="Git logo" />
       </a>
       <br>GIT
+    </td>
+	<td align="center" width="110">
+      <a href="https://bun.com">
+        <img src="icons/tools/bun.svg" width="50" height="50" alt="Bun logo" />
+      </a>
+      <br>BUN
     </td>
     <td align="center" width="110">
       <a href="https://nodejs.org/en">
