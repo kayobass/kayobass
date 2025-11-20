@@ -10,7 +10,6 @@
     <li>🏢 I am currently studying to get my <b>First Job</b>;</li>
     <li>🌱 I'm currently learning <b>Android Development</b> with <b>Kotlin</b> and <b>English</b>;</li>
     <li>💬 You can ask me about <b>Kotlin, Android, Mobile so on</b>;</li>
-    <li>🩸 Living with <b>type 1 Diabetes</b>;</li>
     <li>☕ I do not like <b>Coffee</b>;</li>
     <li>🎛️ I'm unmatched when it comes to <b>Matuê</b>.</li>
   </ul>
