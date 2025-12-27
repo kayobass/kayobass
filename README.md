@@ -6,12 +6,12 @@
   Hello! It's a pleasure to have you here. Please allow me to briefly introduce myself.
   <ul>
     <li>💻 I want to be a <b>Software Engineer</b>;</li>
-    <li>📍 I am from <b>Brazil 🇧🇷</b>;</li>
+    <li>🌐 I am from <b>Brazil 🇧🇷</b>;</li>
     <li>🏢 I am currently studying to get my <b>First Job</b>;</li>
     <li>🌱 I'm currently learning <b>Android Development</b> with <b>Kotlin</b> and <b>English</b>;</li>
     <li>💬 You can ask me about <b>Kotlin, Android, Mobile so on</b>;</li>
     <li>☕ I do not like <b>Coffee</b>;</li>
-    <li>🎛️ I'm unmatched when it comes to <b>Matuê</b>.</li>
+    <li>🎧 I love listening to <b>Matuê</b>.</li>
   </ul>
 </p>
 
@@ -161,19 +161,18 @@
   <summary><b>💬 Discord Profile</b></summary>
   <br/>
   <a href="https://discord.com/users/635504796299689990" target="_blank">
-    <img align="center" src="https://lanyard.cnrad.dev/api/635504796299689990?theme=dark&showDisplayName=true&bg=24273a&borderRadius=15px&animated=true&idleMessage=Listening+to+Matuê" alt="Discord profile"/>
+    <img align="center" src="https://dsc-readme.tsuni.dev/api/user/635504796299689990?animate=true&width=380" alt="Discord profile"/>
     </a>
 </details>
 
 <details>	
-  <br />
   <summary><b>⚙️ Hardware</b></summary>
   	<ul>
-  	  <li><b>OS:</b> Ultramarine 41 (KDE 6)</li>
-	    <li><b>Laptop: </b> Lenovo IdeaPad 3i</li>
-  	  <li><b>Browser: </b> Opera</li>
-      <li><b>Cpu:</b> AMD Ryzen™ 5 5500U with Radeon™ Graphics × 12</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Konsole)</li>
+  		<li><b>OS:</b> Windows 10</li>
+  		<li><b>Browser: </b> Opera</li>
+		<li><b>Cpu:</b> AMD Ryzen 5 7500F</li>
+		<li><b>Gpu:</b> AMD Radeon RX 7700 XT</li>
+	    <li><b>Terminal:</b> Git Bash</li>
 	</ul>	
 </details>
 
@@ -181,5 +180,5 @@
 
 <div align="center">
   <h3>Thanks for getting this far! ❤️🍬</h3>
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Matu%C3%AA&quote=%F0%9F%90%B4+Mil+cavalos,+hoje+eu+%27to+voando.+Num%20portal,+chegando+em+outro+plano.&bg_color=343f44&quote_color=d3c6aa&author_color=d699b6&accent_color=a7c080&border_color=8087a2&border_radius=15" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Matuê&quote=🌞+Na%20pior%20fase%20aparece%20o%20melhor%20dia.%20Basta%20acreditar,%20amanhã%20vai%20ser%20melhor%20ainda.&bg_color=343f44&quote_color=d3c6aa&author_color=d699b6&accent_color=a7c080&border_color=8087a2&border_radius=15" />
 </div>
