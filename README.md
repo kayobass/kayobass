@@ -33,7 +33,7 @@
 ## 🌐 Find more about me at:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/balah7/" target="_blank">
+  <a href="https://www.linkedin.com/in/kayoaruj/" target="_blank">
     <img alt="Icon LinkedIn (profile)" src="icons/social/linkedin.svg" width="50" height="50">
   </a>
   <a href="https://www.instagram.com/kayobasss/" target="_blank">
