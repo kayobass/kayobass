@@ -17,6 +17,8 @@
 
 <hr>
 
+<img align="right" alt="Github Banner" src="icons/social/github-banner.png" style="margin-bottom: 15px;" />
+
 <p>
   Hello! I’m Kayo Araujo, but you can also call me <em>Balah</em>. Born in 2008, and passionate about <b>Android development</b>.
   I’m currently studying <b>Kotlin</b> to start exploring the Android world and create useful and practical apps for everyday life.
