@@ -17,8 +17,6 @@
 
 <hr>
 
-<img align="right" alt="Github Banner" src="icons/social/github-banner.png" style="margin-bottom: 15px;" />
-
 <p>
   Hello! I’m Kayo Araujo, but you can also call me <em>Balah</em>. Born in 2008, and passionate about <b>Android development</b>.
   I’m currently studying <b>Kotlin</b> to start exploring the Android world and create useful and practical apps for everyday life.
@@ -140,15 +138,15 @@
   <summary><b>⚡ Github Stats</b></summary>
   
   <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=kayobass&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&title_color=c6a0f6&text_color=8aadf4&icon_color=f5a97f&include_all_commits=true&bg_color=24273a&border_color=8087a2&border_radius=15" alt="Github Stats"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayobass&layout=donut-vertical&theme=dark&title_color=c6a0f6&text_color=8aadf4&icon_color=f5a97f&bg_color=24273a&border_color=24273a&border_radius=15" alt="Most used languages"/>
+        <img src="https://gh-readme-profile.vercel.app/api?username=kayobass&theme=gruvbox&border_width=0.3&border_radius=5" alt="Github Stats"/>
+        <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=kayobass&type=languages&theme=forest" alt="Most used languages"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
   <br/>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=kayobass&theme=catppuccin-macchiato&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500" alt="Github Streaks" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=kayobass&theme=gruvbox&hide_border=false" alt="Github Streaks" />
 </details>
 
 <details>	
@@ -182,5 +180,5 @@
 
 <div align="center">
   <h3>Thanks for getting this far! ❤️🍬</h3>
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Matuê&quote=🌞+Na%20pior%20fase%20aparece%20o%20melhor%20dia.%20Basta%20acreditar,%20amanhã%20vai%20ser%20melhor%20ainda.&bg_color=343f44&quote_color=d3c6aa&author_color=d699b6&accent_color=a7c080&border_color=8087a2&border_radius=15" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Matuê&quote=🌞+Na%20pior%20fase%20aparece%20o%20melhor%20dia.%20Basta%20acreditar,%20amanhã%20vai%20ser%20melhor%20ainda.&bg_color=3c3836&quote_color=8ec07c&author_color=fabd2f&accent_color=fe8019&border_color=ebdbb2&border_radius=15" />
 </div>
