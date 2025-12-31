@@ -11,7 +11,7 @@
     <li>🌱 I'm currently learning <b>Android Development</b> with <b>Kotlin</b> and <b>English</b>;</li>
     <li>💬 You can ask me about <b>Kotlin, Android, Mobile so on</b>;</li>
     <li>☕ I do not like <b>Coffee</b>;</li>
-    <li>🎧 I love listening to <b>Matuê</b>.</li>
+    <li>🎧 I love listening to <b>Matuê</b> & playing <b>Games</b>.</li>
   </ul>
 </p>
 
