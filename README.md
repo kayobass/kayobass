@@ -157,6 +157,7 @@
 
 </details>
 
+<!-- 
 <details>	
   <summary><b>💬 Discord Profile</b></summary>
   <br/>
@@ -164,6 +165,7 @@
     <img align="center" src="https://dsc-readme.tsuni.dev/api/user/635504796299689990?animate=true&width=380" alt="Discord profile"/>
     </a>
 </details>
+-->
 
 <details>	
   <summary><b>⚙️ Hardware</b></summary>
