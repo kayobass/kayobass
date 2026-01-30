@@ -153,7 +153,7 @@
   <summary><b>⏰ Last Year Coding Time</b></summary>
   <br/>
 
-<img align="center" src="https://wakatime.com/share/@balah7/2f990506-3ff1-4505-acea-20283643398b.svg" alt="Wakatime Status Last Year">
+<img align="center" src="https://wakatime.com/share/@balah7/c31ecdaa-7544-4e1d-b336-ecd60b0211b9.svg" alt="Wakatime Status Last Year">
 
 </details>
 
