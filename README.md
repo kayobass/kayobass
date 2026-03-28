@@ -55,22 +55,16 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <a href="https://kotlinlang.org/">
-        <img src="icons/languages/kotlin.svg" width="50" height="50" alt="Kotlin lang logo" />
+      <a href="https://www.python.org">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python lang logo" />
       </a>
-      <br>KOTLIN
+      <br>PYTHON
     </td>	
     <td align="center" width="110">
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
         <img src="icons/languages/javascript.svg" width="50" height="50" alt="JavaScript lang logo" />
       </a>
       <br>JAVASCRIPT
-    </td>
-    <td align="center" width="110">
-      <a href="https://crystal-lang.org/">
-        <img src="icons/languages/crystallang.svg" width="50" height="50" alt="Crystal lang logo" />
-      </a>
-      <br>CRYSTAL
     </td>
   </tr>
 </table>
@@ -82,22 +76,16 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <a href="https://developer.android.com/studio">
-        <img src="icons/ides/androidstudio.svg" width="50" height="50" alt="Android Studio logo" />
+      <a href="https://www.jetbrains.com/pycharm/">
+        <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="50" height="50" alt="Pycharm logo" />
       </a>
-      <br>ANDROID STUDIO
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.jetbrains.com/pt-br/idea/">
-        <img src="icons/ides/intellij-idea.svg" width="50" height="50" alt="IntelliJ IDEA logo" />
-      </a>
-      <br>INTELLIJ IDEA
+      <br>PYCHARM
     </td>
     <td align="center" width="110">
       <a href="https://code.visualstudio.com/">
-        <img src="icons/ides/vscode.svg" width="50" height="50" alt="VS Code logo" />
+        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" alt="VS Code logo" />
       </a>
-      <br>VS<br>CODE
+      <br>VS CODE
     </td>
   </tr>
 </table>
@@ -110,19 +98,19 @@
   <tr>
     <td align="center" width="110">
       <a href="https://www.linux.org/">
-        <img src="icons/tools/linux.svg" width="50" height="50" alt="Linux logo" />
+        <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" height="50" alt="Linux logo" />
       </a>
       <br>LINUX
     </td>	  
     <td align="center" width="110">
       <a href="https://git-scm.com/">
-        <img src="icons/tools/git.svg" width="50" height="50" alt="Git logo" />
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50" alt="Git logo" />
       </a>
       <br>GIT
     </td>
     <td align="center" width="110">
       <a href="https://nodejs.org/en">
-        <img src="icons/tools/nodejs.svg" width="50" height="50" alt="Node.js logo" />
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" height="50" alt="Node.js logo" />
       </a>
       <br>NODE JS
     </td>
@@ -156,8 +144,8 @@
 
 </details>
 
-<!-- 
-<details>	
+<!--
+<details>
   <summary><b>💬 Discord Profile</b></summary>
   <br/>
   <a href="https://discord.com/users/635504796299689990" target="_blank">
