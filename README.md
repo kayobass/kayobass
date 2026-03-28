@@ -5,11 +5,11 @@
 <p width="40%">
   Hello! It's a pleasure to have you here. Please allow me to briefly introduce myself.
   <ul>
-    <li>💻 I want to be a <b>Software Engineer</b>;</li>
+    <li>💻 I want to be an <b>AI Engineer</b>;</li>
     <li>🌐 I am from <b>Brazil 🇧🇷</b>;</li>
     <li>🏢 I am currently studying to get my <b>First Job</b>;</li>
-    <li>🌱 I'm currently learning <b>Android Development</b> with <b>Kotlin</b> and <b>English</b>;</li>
-    <li>💬 You can ask me about <b>Kotlin, Android, Mobile so on</b>;</li>
+    <li>🌱 I'm currently learning <b>Artificial Intelligence</b> and <b>English</b>;</li>
+    <li>💬 You can ask me about <b>AI, Machine Learning, Python and so on</b>;</li>
     <li>☕ I do not like <b>Coffee</b>;</li>
     <li>🎧 I love listening to <b>Matuê</b> & playing <b>Games</b>.</li>
   </ul>
@@ -18,12 +18,11 @@
 <hr>
 
 <p>
-  Hello! I’m Kayo Araujo, but you can also call me <em>Balah</em>. Born in 2008, and passionate about <b>Android development</b>.
-  I’m currently studying <b>Kotlin</b> to start exploring the Android world and create useful and practical apps for everyday life.
-  Although I have Type 1 diabetes, I lead a normal life with proper care.
-  Alongside coding, I’m also diving into <b>English</b> studies, currently at a beginner level.
-  My favorite programming language is <b>Crystal</b>, and I plan to specialize in backend development with it in the future.
-  I also dabble in Node.js with <b>JavaScript</b> since it was my first programming language.
+  Hello! I’m Kayo Araujo, but you can also call me <em>Kayobass</em>. Born in 2008, and passionate about <b>Artificial Intelligence</b>. 
+  I’m currently focused on becoming an <b>AI Engineer</b>, exploring intelligent models and practical solutions for everyday life.
+  Whilst I have Type 1 diabetes, I lead a normal life with proper care.
+  Alongside coding, I’m also diving into <b>English</b> studies, seeking to improve constantly.
+  My favourite programming language is <b>Crystal</b>, and I’m deepening my knowledge in technologies geared towards data and AI.
   Additionally, I create content on <b>YouTube</b> to share experiences, stories, and some programming tips.
   Feel free to reach out to me through my social media. Cheers! 🚀 &lt;3
 </p>
