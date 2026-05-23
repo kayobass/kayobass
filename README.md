@@ -133,7 +133,7 @@
   <summary><b>☄️ Github Streaks</b></summary>
   <br/>
 
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=kayobass&theme=gruvbox&hide_border=false" alt="Github Streaks" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=kayobass&theme=gruvbox&hide_border=true&border_radius=6.8&date_format=j%20M%5B%20Y%5D" alt="Github Streaks" />
 </details>
 
 <details>	
