@@ -5,10 +5,11 @@
 <p width="40%">
   Hello! It's a pleasure to have you here. Please allow me to briefly introduce myself.
   <ul>
-    <li>💻 I want to be an <b>AI Engineer</b>;</li>
-    <li>🌐 I am from <b>Brazil 🇧🇷</b>;</li>
-    <li>🏢 I am currently studying to get my <b>First Job</b>;</li>
+    <li>💻 I'm preparing for a career as an <b>AI Engineer</b>;</li>
+    <li>🌐 I'm from <b>Brazil 🇧🇷</b>;</li>
+    <li>🏢 I'm currently studying to get my <b>First Job</b>;</li>
     <li>🌱 I'm currently learning <b>Artificial Intelligence</b> and <b>English</b>;</li>
+	<li>🎓 I'm currently pursuing a bachelor's degree in <b>Artificial Intelligence</b>;</li>
     <li>💬 You can ask me about <b>AI, Machine Learning, Python and so on</b>;</li>
     <li>☕ I do not like <b>Coffee</b>;</li>
     <li>🎧 I love listening to <b>Matuê</b> & playing <b>Games</b>.</li>
@@ -70,6 +71,22 @@
 </table>
 
 ---
+<!--
+### 🧱 Frameworks:
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <a href="https://www.python.org">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python lang logo" />
+      </a>
+      <br>INSERIR
+	</td>
+  </tr>
+</table>
+
+---
+-->
 
 ### 🛠️ IDEs:
 
@@ -86,6 +103,13 @@
         <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" alt="VS Code logo" />
       </a>
       <br>VS CODE
+    </td>
+	</td>
+    <td align="center" width="110">
+      <a href="https://antigravity.google/">
+        <img src="https://img.toolin.ai/logos/google-antigravity-j23v15.png" width="50" height="50" alt="Antigravity logo"style="border: 5px solid black; border-radius: 50%;" />
+      </a>
+      <br>ANTIGRAVITY
     </td>
   </tr>
 </table>
