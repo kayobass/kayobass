@@ -13,6 +13,7 @@
     <li>💬 You can ask me about <b>AI, Machine Learning, Python and so on</b>;</li>
     <li>☕ I do not like <b>Coffee</b>;</li>
     <li>🎧 I love listening to <b>Matuê</b> & playing <b>Games</b>.</li>
+	<li>📋 See my portfolio <a href="https://kayobass.vercel.app/" target="_blank">here</a></li>
   </ul>
 </p>
 
