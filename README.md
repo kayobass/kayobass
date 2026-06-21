@@ -183,7 +183,7 @@
   <summary><b>⚙️ Hardware</b></summary>
   	<ul>
   		<li><b>OS:</b> Windows 10</li>
-  		<li><b>Browser: </b> Microsoft Edge</li>
+  		<li><b>Browser: </b> Waterfox </li>
 		<li><b>Cpu:</b> AMD Ryzen 5 7500F</li>
 		<li><b>Gpu:</b> AMD Radeon RX 7700 XT</li>
 	    <li><b>Terminal:</b> Git Bash</li>
