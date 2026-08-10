@@ -93,24 +93,17 @@
 
 <table>
   <tr>
+	<td align="center" width="110">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium" width="50" height="50" alt="VS Code logo" />
+      </a>
+      <br>VSCODIUM
+    </td>
     <td align="center" width="110">
       <a href="https://www.jetbrains.com/pycharm/">
-        <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="50" height="50" alt="Pycharm logo" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=datagrip" width="50" height="50" alt="Pycharm logo" />
       </a>
-      <br>PYCHARM
-    </td>
-    <td align="center" width="110">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" height="50" alt="VS Code logo" />
-      </a>
-      <br>VS CODE
-    </td>
-	</td>
-    <td align="center" width="110">
-      <a href="https://antigravity.google/">
-        <img src="https://img.toolin.ai/logos/google-antigravity-j23v15.png" width="50" height="50" alt="Antigravity logo"style="border: 5px solid black; border-radius: 50%;" />
-      </a>
-      <br>ANTIGRAVITY
+      <br>DATA GRIP
     </td>
   </tr>
 </table>
@@ -126,10 +119,16 @@
         <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" height="50" alt="Linux logo" />
       </a>
       <br>LINUX
-    </td>	  
+    </td>
+	  <td align="center" width="110">
+      <a href="https://git-scm.com/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb" width="50" height="50" alt="Git logo" />
+      </a>
+      <br>MARIA DB
+    </td>
     <td align="center" width="110">
       <a href="https://git-scm.com/">
-        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50" alt="Git logo" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="50" height="50" alt="Git logo" />
       </a>
       <br>GIT
     </td>
