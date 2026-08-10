@@ -94,14 +94,14 @@
 <table>
   <tr>
 	<td align="center" width="110">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium" width="50" height="50" alt="VS Code logo" />
+      <a href="https://vscodium.com/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium" width="50" height="50" alt="VSCodium logo" />
       </a>
       <br>VSCODIUM
     </td>
     <td align="center" width="110">
-      <a href="https://www.jetbrains.com/pycharm/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=datagrip" width="50" height="50" alt="Pycharm logo" />
+      <a href="https://www.jetbrains.com/datagrip/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=datagrip" width="50" height="50" alt="Data Grip logo" />
       </a>
       <br>DATA GRIP
     </td>
@@ -121,7 +121,7 @@
       <br>LINUX
     </td>
 	  <td align="center" width="110">
-      <a href="https://git-scm.com/">
+      <a href="https://mariadb.org/">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb" width="50" height="50" alt="Git logo" />
       </a>
       <br>MARIA DB
