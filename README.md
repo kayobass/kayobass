@@ -72,32 +72,32 @@
 </table>
 
 ---
-<!--
+
 ### 🧱 Frameworks:
 
 <table>
   <tr>
     <td align="center" width="110">
-      <a href="https://www.python.org">
-        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python lang logo" />
+      <a href="https://pandas.pydata.org/">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="50" height="50" alt="Python lang logo" />
       </a>
-      <br>INSERIR
+      <br>PANDAS
 	</td>
   </tr>
 </table>
 
 ---
--->
+
 
 ### 🛠️ IDEs:
 
 <table>
   <tr>
 	<td align="center" width="110">
-      <a href="https://vscodium.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium" width="50" height="50" alt="VSCodium logo" />
+      <a href="https://antigravity.google/product/antigravity-ide/">
+        <img src="icons/ides/antigravity-dark.svg" width="50" height="50" alt="Antigravity IDE logo" />
       </a>
-      <br>VSCODIUM
+      <br>ANTIGRAVITY
     </td>
     <td align="center" width="110">
       <a href="https://www.jetbrains.com/datagrip/">
