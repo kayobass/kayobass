@@ -122,9 +122,9 @@
     </td>
 	  <td align="center" width="110">
       <a href="https://mariadb.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb" width="50" height="50" alt="Git logo" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="50" height="50" alt="Git logo" />
       </a>
-      <br>MARIA DB
+      <br>POSTGRESQL
     </td>
     <td align="center" width="110">
       <a href="https://git-scm.com/">
