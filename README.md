@@ -70,16 +70,13 @@ I'm a Python developer from Brazil 🇧🇷 with a strong focus on **Data Scienc
 ### 📊 Metrics
 
 <details>
-  <summary><b>⚡ GitHub Analytics & Habits</b></summary>
+  <summary><b>⚡ GitHub Analytics</b></summary>
   <br />
   <div align="center">
     <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayobass&theme=gruvbox" alt="Stats" />
     <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kayobass&theme=gruvbox&utcOffset=-3" alt="Productive Time" />
     <br /><br />
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/kayobass?theme=dark&version=2&config=kayobass.json">
-      <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/kayobass?version=2&config=kayobass.json" width="75%">
-    </picture>
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayobass&theme=gruvbox" alt="Most Used Languages" />
   </div>
 </details>
 
