@@ -1,197 +1,103 @@
-# 🍬 Hello, I'm Kayo, a little programming student.
+<div align="center">
 
-<img align="right" alt="GIF" src="icons/gifs/codelife.gif" width="40%" />
+  <h1>Hey there, I'm Kayo Araujo <i>(Kayobass)</i> 🤠</h1>
+  <p><b>Artificial Intelligence Undergraduate • Aspiring Data Scientist • Python Developer</b></p>
 
-<p width="40%">
-  Hello! It's a pleasure to have you here. Please allow me to briefly introduce myself.
-  <ul>
-    <li>💻 I'm preparing for a career as an <b>AI Engineer</b>;</li>
-    <li>🌐 I'm from <b>Brazil 🇧🇷</b>;</li>
-    <li>🏢 I'm currently studying to get my <b>First Job</b>;</li>
-    <li>🌱 I'm currently learning <b>Artificial Intelligence</b> and <b>English</b>;</li>
-	<li>🎓 I'm currently pursuing a bachelor's degree in <b>Artificial Intelligence</b>;</li>
-    <li>💬 You can ask me about <b>AI, Machine Learning, Python and so on</b>;</li>
-    <li>☕ I do not like <b>Coffee</b>;</li>
-    <li>🎧 I love listening to <b>Matuê</b> & playing <b>Games</b>;</li>
-	<li>📋 See my portfolio <a href="https://kayobass.vercel.app/" target="_blank">here</a>.</li>
-  </ul>
-</p>
-
-<hr>
-
-<p>
-  Hello! I’m Kayo Araujo, but you can also call me <em>Kayobass</em>. Born in 2008, and passionate about <b>Artificial Intelligence</b>. 
-  I’m currently focused on becoming an <b>AI Engineer</b>, exploring intelligent models and practical solutions for everyday life.
-  Whilst I have Type 1 diabetes, I lead a normal life with proper care.
-  Alongside coding, I’m also diving into <b>English</b> studies, seeking to improve constantly.
-  My favourite programming language is <b>Crystal</b>, and I’m deepening my knowledge in technologies geared towards data and AI.
-  Additionally, I create content on <b>YouTube</b> to share experiences, stories, and some programming tips.
-  Feel free to reach out to me through my social media. Cheers! 🚀 &lt;3
-</p>
-
----
-
-## 🌐 Find more about me at:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kayoaruj/" target="_blank">
-    <img alt="Icon LinkedIn (profile)" src="icons/social/linkedin.svg" width="50" height="50">
-  </a>
-  <a href="https://www.instagram.com/kayobasss/" target="_blank">
-    <img alt="Icon Instagram (profile)" src="icons/social/instagram.svg" width="50" height="50">
-  </a>
-  <a href="https://www.youtube.com/channel/UC5EbVrq3WHkwRDUzbQaS5ig">
-    <img alt="Icon YouTube (channel)" src="icons/social/youtube.svg" width="50" height="50">
-  </a>
-  <a href="https://discord.gg/RphRA56rM7">
-    <img alt="Icon Discord (profile)" src="icons/social/discord.svg" width="50" height="50">
-  </a> 
-</p>
-
----
-
-## 🖥️ My Tech Stacks:
-
-### 📝 Languages:
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://www.python.org">
-        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python lang logo" />
-      </a>
-      <br>PYTHON
-    </td>	
-    <td align="center" width="110">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-        <img src="icons/languages/javascript.svg" width="50" height="50" alt="JavaScript lang logo" />
-      </a>
-      <br>JAVASCRIPT
-    </td>
-  </tr>
-</table>
-
----
-
-### 🧱 Frameworks:
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://pandas.pydata.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="50" height="50" alt="Python lang logo" />
-      </a>
-      <br>PANDAS
-	</td>
-  </tr>
-</table>
-
----
-
-
-### 🛠️ IDEs:
-
-<table>
-  <tr>
-	<td align="center" width="110">
-      <a href="https://antigravity.google/product/antigravity-ide/">
-        <img src="icons/ides/antigravity-dark.svg" width="50" height="50" alt="Antigravity IDE logo" />
-      </a>
-      <br>ANTIGRAVITY
-    </td>
-    <td align="center" width="110">
-      <a href="https://www.jetbrains.com/datagrip/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=datagrip" width="50" height="50" alt="Data Grip logo" />
-      </a>
-      <br>DATA GRIP
-    </td>
-  </tr>
-</table>
-
----
-
-### 🔧 Other Tools:
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <a href="https://www.linux.org/">
-        <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" height="50" alt="Linux logo" />
-      </a>
-      <br>LINUX
-    </td>
-	  <td align="center" width="110">
-      <a href="https://mariadb.org/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="50" height="50" alt="Git logo" />
-      </a>
-      <br>POSTGRESQL
-    </td>
-    <td align="center" width="110">
-      <a href="https://git-scm.com/">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="50" height="50" alt="Git logo" />
-      </a>
-      <br>GIT
-    </td>
-    <td align="center" width="110">
-      <a href="https://nodejs.org/en">
-        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" height="50" alt="Node.js logo" />
-      </a>
-      <br>NODE JS
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Statistics :
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-  
-  <br />
-        <img src="https://gh-readme-profile.vercel.app/api?username=kayobass&theme=gruvbox&border_width=0.3&border_radius=5" alt="Github Stats"/>
-        <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=kayobass&type=languages&theme=forest" alt="Most used languages"/>
-</details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-  <br/>
-
-  <img height="180em" src="https://streak-stats.demolab.com/?user=kayobass&theme=gruvbox&hide_border=true&border_radius=6.8&date_format=j%20M%5B%20Y%5D" alt="Github Streaks" />
-</details>
-
-<details>	
-  <summary><b>⏰ Last Year Coding Time</b></summary>
-  <br/>
-
-<img align="center" src="https://wakatime.com/share/@balah7/c31ecdaa-7544-4e1d-b336-ecd60b0211b9.svg" alt="Wakatime Status Last Year">
-
-</details>
-
-<!--
-<details>
-  <summary><b>💬 Discord Profile</b></summary>
-  <br/>
-  <a href="https://discord.com/users/635504796299689990" target="_blank">
-    <img align="center" src="https://dsc-readme.tsuni.dev/api/user/635504796299689990?animate=true&width=380" alt="Discord profile"/>
+  <!-- Minimalist Aesthetic Badges -->
+  <p>
+    <a href="https://kayobass.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-ebdbb2?style=flat-square&logo=vercel&logoColor=282828" alt="Portfolio" />
     </a>
-</details>
--->
+    <a href="https://www.linkedin.com/in/kayoaruj/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-83a598?style=flat-square&logo=linkedin&logoColor=282828" alt="LinkedIn" />
+    </a>
+    <a href="https://www.youtube.com/channel/UC5EbVrq3WHkwRDUzbQaS5ig" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-fb4934?style=flat-square&logo=youtube&logoColor=282828" alt="YouTube" />
+    </a>
+    <a href="https://discord.gg/RphRA56rM7" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-d3869b?style=flat-square&logo=discord&logoColor=282828" alt="Discord" />
+    </a>
+  </p>
+</div>
 
-<details>	
-  <summary><b>⚙️ Hardware</b></summary>
-  	<ul>
-  		<li><b>OS:</b> Windows 10</li>
-  		<li><b>Browser: </b> Waterfox </li>
-		<li><b>Cpu:</b> AMD Ryzen 5 7500F</li>
-		<li><b>Gpu:</b> AMD Radeon RX 7700 XT</li>
-	    <li><b>Terminal:</b> Git Bash</li>
-	</ul>	
-</details>
+<br />
+
+<!-- Cozy Intro Section -->
+<img align="right" alt="Coding GIF" src="https://cleverhack.com/img/world_cup_clawd.gif" width="32%" style="border-radius: 12px;" />
+
+### 🎲 About Me
+
+I'm a Python developer from Brazil 🇧🇷 with a strong focus on **Data Science** and **Artificial Intelligence**. I thoroughly enjoy transforming raw data into meaningful insights and building practical solutions powered by analytics, automation, and intelligent models.
+
+- 🎓 Pursuing a **BSc in Artificial Intelligence** at the _Federal University of Sergipe (UFS)_
+- 🌱 Deepening my craft in **Python, SQL, Data Analysis, and Machine Learning**
+- 🎥 Creating content on **[YouTube](https://www.youtube.com/channel/UC5EbVrq3WHkwRDUzbQaS5ig)** to share programming tips and my tech journey
+- 🍵 Powered by good music (_Matuê_) and gaming — strictly a **non-coffee** drinker
+
+<br clear="both" />
 
 ---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <h3>Thanks for getting this far! ❤️🍬</h3>
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Matuê&quote=🌞+Na%20pior%20fase%20aparece%20o%20melhor%20dia.%20Basta%20acreditar,%20amanhã%20vai%20ser%20melhor%20ainda.&bg_color=3c3836&quote_color=8ec07c&author_color=fabd2f&accent_color=fe8019&border_color=ebdbb2&border_radius=15" />
+  <p><b>Languages & Data Science</b></p>
+  <p>
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/python-dark.svg" width="48" height="48" alt="Python" />&nbsp;
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/crystal-dark.svg" width="48" height="48" alt="Crystal" />&nbsp;
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/postgresql-dark.svg" width="48" height="48" alt="PostgreSQL" />&nbsp;
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/pandas-dark.svg" width="48" height="48" alt="Pandas" />&nbsp;
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/numpy-dark.svg" width="48" height="48" alt="NumPy" />&nbsp;
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/matplotlib-dark.svg" width="48" height="48" alt="Matplotlib" />&nbsp;
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/streamlit-dark.svg" width="48" height="48" alt="Streamlit" />
+  </p>
+
+  <img src="/icons/gifs/divider.gif" width="100%" height="2" alt="Divider" />
+
+  <p><b>Environment & Workflow</b></p>
+  <p>
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/linux-dark.svg" width="48" height="48" alt="Linux" />&nbsp;
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/git-dark.svg" width="48" height="48" alt="Git" />&nbsp;
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/github-dark.svg" width="48" height="48" alt="GitHub" />&nbsp;
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/nodejs-dark.svg" width="48" height="48" alt="Node.js" />&nbsp;
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/datagrip-dark.svg" width="48" height="48" alt="DataGrip" />&nbsp;
+    <img src="icons/ides/antigravity-dark.svg" width="48" height="48" alt="Antigravity IDE" />
+  </p>
 </div>
+
+---
+
+### 📊 Metrics
+
+<details>
+  <summary><b>⚡ GitHub Analytics & Habits</b></summary>
+  <br />
+  <div align="center">
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayobass&theme=gruvbox" alt="Stats" />
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kayobass&theme=gruvbox&utcOffset=-3" alt="Productive Time" />
+    <br /><br />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/kayobass?theme=dark&version=2&config=kayobass.json">
+      <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/kayobass?version=2&config=kayobass.json" width="75%">
+    </picture>
+  </div>
+</details>
+
+<details>
+  <summary><b>⏰ WakaTime Coding Activity</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://wakatime.com/share/@balah7/c31ecdaa-7544-4e1d-b336-ecd60b0211b9.svg" width="85%" alt="WakaTime Activity" />
+  </div>
+</details>
+
+<br />
+
+<div align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Matuê&quote=🌞+Na%20pior%20fase%20aparece%20o%20melhor%20dia.%20Basta%20acreditar,%20amanhã%20vai%20ser%20melhor%20ainda.&bg_color=282828&quote_color=ebdbb2&author_color=fabd2f&accent_color=8ec07c&border_color=3c3836&border_radius=12" alt="Daily Quote" />
+  <p><sub><i>Thanks for dropping by! Cheers ✨🍬</i></sub></p>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=A89984&center=true&vCenter=true&width=435&lines=Learning+something+new+every+day...;One+line+of+code+at+a+time+%E2%98%81%EF%B8%8F" alt="Typing animation"/>
+</p>

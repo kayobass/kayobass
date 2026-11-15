@@ -1,0 +1,206 @@
+{
+  "title": "Most Used Languages",
+  "custom_image": "https://i.imgur.com/kTTgBrc.png",
+  "colors_light_theme": {
+    "title_color": "#fabd2f",
+    "text_color": "#ebdbb2",
+    "percentage_color": "#a89984",
+    "background_color": "#282828",
+    "border_color": "#3c3836"
+  },
+  "colors_dark_theme": {
+    "title_color": "#fabd2f",
+    "text_color": "#ebdbb2",
+    "percentage_color": "#a89984",
+    "background_color": "#282828",
+    "border_color": "#3c3836"
+  },
+  "disable_languages": ["HTML", "CSS"],
+  "languages": [
+    {
+      "name": "Python",
+      "extensions": ["py", "pyw", "pyc", "pyo", "pyd", "ipynb"],
+      "color": "#3572A5",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    },
+    {
+      "name": "Crystal",
+      "extensions": ["cr"],
+      "color": "#000100",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original.svg"
+    },
+    {
+      "name": "JavaScript",
+      "extensions": ["js", "mjs", "cjs", "jsx", "ejs"],
+      "color": "#F1E05A",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    },
+    {
+      "name": "Java",
+      "extensions": ["java"],
+      "color": "#B07219",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    },
+    {
+      "name": "C++",
+      "extensions": ["cpp", "cc", "cxx", "hpp", "hh"],
+      "color": "#F34B7D",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+    },
+    {
+      "name": "C",
+      "extensions": ["c", "h"],
+      "color": "#555555",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    },
+    {
+      "name": "C#",
+      "extensions": ["cs"],
+      "color": "#178600",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+    },
+    {
+      "name": "PHP",
+      "extensions": ["php", "phtml", "php3", "php4", "php5"],
+      "color": "#4F5D95",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+    },
+    {
+      "name": "Ruby",
+      "extensions": ["rb", "erb"],
+      "color": "#701516",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"
+    },
+    {
+      "name": "Go",
+      "extensions": ["go"],
+      "color": "#00ADD8",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"
+    },
+    {
+      "name": "Rust",
+      "extensions": ["rs"],
+      "color": "#DEA584",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+    },
+    {
+      "name": "TypeScript",
+      "extensions": ["ts", "tsx"],
+      "color": "#2B7489",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    },
+    {
+      "name": "Kotlin",
+      "extensions": ["kt", "kts"],
+      "color": "#F18E33",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+    },
+    {
+      "name": "Swift",
+      "extensions": ["swift"],
+      "color": "#FFAC45",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"
+    },
+    {
+      "name": "Scala",
+      "extensions": ["scala", "sc"],
+      "color": "#C22D40",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg"
+    },
+    {
+      "name": "Shell",
+      "extensions": ["sh", "bash"],
+      "color": "#89E051",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg"
+    },
+    {
+      "name": "HTML",
+      "extensions": ["html", "htm"],
+      "color": "#E34C26",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg"
+    },
+    {
+      "name": "CSS",
+      "extensions": ["css"],
+      "color": "#563D7C",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    },
+    {
+      "name": "Elixir",
+      "extensions": ["ex", "exs"],
+      "color": "#6E4A7E",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original.svg"
+    },
+    {
+      "name": "Haskell",
+      "extensions": ["hs", "lhs"],
+      "color": "#5E5086",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg"
+    },
+    {
+      "name": "Julia",
+      "extensions": ["jl"],
+      "color": "#A270BA",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg"
+    },
+    {
+      "name": "SQL",
+      "extensions": ["sql", "sqlite", "sqlite3"],
+      "color": "#e38c00",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+    },
+    {
+      "name": "GraphQL",
+      "extensions": ["graphql", "gql"],
+      "color": "#e10098",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"
+    },
+    {
+      "name": "PostgreSQL",
+      "extensions": ["pgsql", "postgresql", "pgtcl"],
+      "color": "#336791",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    },
+    {
+      "name": "MongoDB",
+      "extensions": ["mongo"],
+      "color": "#47A248",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+    },
+    {
+      "name": "Redis",
+      "extensions": ["rdb"],
+      "color": "#DC382D",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
+    },
+    {
+      "name": "Cassandra CQL",
+      "extensions": ["cql"],
+      "color": "#1287B1",
+      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg"
+    }
+  ],
+  "v2": {
+    "v2_terminal_user": "kayobass",
+    "v2_terminal_hostname": "fedora",
+    "v2_colors_light_theme": {
+      "title_color": "#fabd2f",
+      "terminal_color": "#8ec07c",
+      "text_color": "#ebdbb2",
+      "percentage_color": "#a89984",
+      "background_color": "#282828",
+      "border_color": "#3c3836"
+    },
+    "v2_colors_dark_theme": {
+      "title_color": "#fabd2f",
+      "terminal_color": "#8ec07c",
+      "text_color": "#ebdbb2",
+      "percentage_color": "#a89984",
+      "background_color": "#282828",
+      "border_color": "#3c3836"
+    },
+    "custom_info": {
+      "Favorite Languages": "........................ Crystal"
+    }
+  }
+}
